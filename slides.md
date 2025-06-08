@@ -164,7 +164,7 @@ css: |
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; text-align: center;">
 
 <div style="margin-bottom: 30px;">
-<img src="https://iiitl.ac.in/wp-content/uploads/2020/09/logo.png" alt="IIIT Lucknow Logo" style="height: 120px; margin-bottom: 20px;" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+<img src="https://iiitl.ac.in/wp-content/uploads/2019/10/Final_Logo_IIITL.png" alt="IIIT Lucknow Logo" style="height: 120px; margin-bottom: 20px;" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
 <div style="display: none; background: linear-gradient(135deg, #0066cc 0%, #004499 100%); color: white; padding: 15px 30px; border-radius: 10px; font-weight: bold; margin-bottom: 20px;">
 IIIT<br>Lucknow
 </div>
