@@ -1,4 +1,4 @@
-name: Deploy Slidev to GitHub Pages
+name: Deploy Slidev Presentation to GitHub Pages
 
 on:
   push:
@@ -9,7 +9,7 @@ on:
 # Allow one concurrent deployment
 concurrency:
   group: "pages"
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   # Build job
@@ -39,7 +39,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./dist
+          path: './dist'
 
   # Deployment job
   deploy:
