@@ -17,7 +17,7 @@ This is a comprehensive **Slidev presentation** for Meet Bhanushali's 8th semest
 
 ## 🚀 Live Presentation
 
-🌐 **[View Live Presentation](https://workw.github.io/sides_8_sem/)**
+🌐 **[View Live Presentation]([[https://workw.github.io/sides_8_sem](https://meetkool.github.io/8-sem-iiitl-final-project-talk-/1)](https://meetkool.github.io/8-sem-iiitl-final-project-talk-/1)/)**
 
 ## 🛠️ Technology Stack
 
